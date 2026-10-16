@@ -1,0 +1,18 @@
+{
+    "tickets": {
+        "TICK-63D650FF": {
+            "ticket_id": "TICK-63D650FF",
+            "category": "payment",
+            "summary": "i want to raise a ticket for my payment issue",
+            "customer_details": {
+                "name": "Sakshi Lahariya",
+                "email": "sakshilahariya@gmail.com"
+            },
+            "initial_status": "Open",
+            "created_at": "2026-10-16T12:35:42.369677"
+        }
+    },
+    "session_tickets": {
+        "demo-session-1": "TICK-63D650FF"
+    }
+}
